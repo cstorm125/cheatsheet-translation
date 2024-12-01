@@ -196,7 +196,7 @@
 
 **33. Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
 
-&#10230;การปรับให้เหมาะสม (regularization) - จุดมุ่งหมายของการปรับให้เหมาะสมคือหลีกเลี่ยงไม่ให้โมเดลปรับตัวมากเกินไป (overfit) กับข้อมูลและจัดการกับปัญหาความแปรปรวนของคำทำนายสูง ตารางต่อไปนี้สรุปเทคนิคการปรับให้เหมาะสมที่นิยมใช้:
+&#10230;การปรับให้เหมาะสม (regularization) - จุดมุ่งหมายของการปรับให้เหมาะสมคือหลีกเลี่ยงไม่ให้โมเดลจดจำเฉพาะข้อมูลฝึกอบรมมากเกินไป (overfit) และจัดการกับปัญหาความแปรปรวนของคำทำนายสูง ตารางต่อไปนี้สรุปเทคนิคการปรับให้เหมาะสมที่นิยมใช้:
 
 <br>
 
